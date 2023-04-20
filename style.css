@@ -1,0 +1,160 @@
+table {
+  margin: 0px auto;
+}
+
+.header {
+  color: #ba0001;
+  padding-left: 40px;
+  font-weight: bold;
+  font-family: Arial, Sans-Serif;
+  line-height: 17px;
+  width: 1180px;
+}
+
+.header td {
+  padding: 0px;
+}
+
+.normal {
+  color: black;
+  font-weight: normal;
+  font-family: courier, Sans-Serif;
+  font-size: 1.1em;
+}
+
+img {
+  height: 110px;
+  margin: 0px;
+}
+
+#logo {
+  width: 100px;
+}
+
+#school {
+  font-size: 1.5em;
+  width: 315px;
+}
+
+#campus {
+  font-size: 1.1em;
+}
+
+#registration {
+  font-size: 1.68em;
+  width: 360px;
+}
+
+#address, #sem {
+  font-size: 0.8em;
+  line-height: 18px;
+}
+
+.one {
+  border-style: solid solid none solid;
+  border-width: 4px;
+  border-color: #ba0001;
+  font-family: Arial, Sans-Serif;
+  font-weight: bold;
+}
+
+.drrm {
+  color: white;
+  font-family: Arial, Sans-Serif;
+  background-color: #ba0001;
+  padding: 0px 30px;
+}
+
+.col1 {
+  padding-left: 30px;
+}
+
+.two {
+  border-style: none solid solid solid;
+  border-width: 4px;
+  border-color: #ba0001;
+  font-family: Courier New, Monospace;
+  font-weight: bold;
+}
+
+.subjects {
+  color: white;
+  background-color: #ba0001;
+  font-family: Arial, Sans-Serif;
+}
+
+.subjects td {
+  padding: 0px 30px;
+}
+
+#subsec {
+  width: 230px;
+}
+
+#subdesc {
+  width: 390px;
+}
+
+#subunits {
+  width: 100px;
+}
+
+#subsched {
+  width: 161px;
+}
+
+#subj {
+  width: 80px;
+}
+
+#name {
+  width: 428px;
+}
+
+#year {
+  width: 200px;
+}
+
+#sec {
+  width: 115px;
+}
+
+#desc {
+  width: 480px;
+}
+
+#num {
+  width: 63px;
+}
+
+#units {
+  width: 40px;
+  text-align: center;
+}
+
+#day {
+  width: 47px;
+}
+
+#time {
+  width: 90px;
+}
+
+#m {
+  width: 22px;
+}
+
+#c {
+  width: 85px;
+}
+#room {
+  width: 141px;
+}
+
+td {
+  padding: 5px 0px;
+}
+
+#red {
+  color: #ba0001;
+}
